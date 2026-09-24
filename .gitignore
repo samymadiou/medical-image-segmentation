@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset and generated outputs
+Data/
+models/
+Results/
+Stats/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs and caches
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
