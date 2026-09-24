@@ -29,11 +29,9 @@ The work focuses on the ACDC challenge setup, where target masks encode 4 classe
 ```text
 .
 ├── README.md
-├── LICENSE
 ├── pyproject.toml
 ├── requirements.txt
 ├── Makefile
-├── CONTRIBUTING.md
 ├── .gitignore
 ├── scripts/
 │   └── check_setup.py
